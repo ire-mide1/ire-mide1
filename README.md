@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ire-mide1
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on building models
+- 💞️ I’m looking to collaborate on by working remotely
 - 📫 How to reach me www.linkedin.com/in/oyelajairemide
 
 <!---
