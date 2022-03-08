@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ire-mide1
+- 👋 Hi, I’m Iremide
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate by working remotely
