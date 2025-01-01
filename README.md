@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iremide
 - 👀 I’m interested in AI Security and Privacy
-- 🌱 I’m currently working on Federated Learning, NLP, CV
+- 🌱 I’m currently working on Federated Learning, Differential Privacy, LLM, CV
 - 💞️ I’m interested to collaborate by working remotely
 - 📫 How to reach me www.linkedin.com/in/oyelajairemide
 
