@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iremide
-- 👀 I’m interested in Data Analysis, Data Science, Machine Learning
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate by working remotely
+- 👀 I’m interested in AI Security and Privacy
+- 🌱 I’m currently working on Federated Learning, NLP, CV
+- 💞️ I’m intrested to collaborate by working remotely
 - 📫 How to reach me www.linkedin.com/in/oyelajairemide
 
 <!---
